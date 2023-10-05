@@ -4,7 +4,7 @@ Welcome to hacktoberfest2023
 How to contribute
 -----------------
 # Step 1
-I want you to create issue by yourself as I don't what kind of content you have or in other case maybe multiple people have different links to same topics.
+I want you to create issue by yourself as I don't know what kind of content you have or in other case maybe multiple people have different links to same topics.
 
 # Step 2
 Make sure you add `hacktoberfest` label to issue otherwise the work won't be able to count in your hacktoberfest 2023.
